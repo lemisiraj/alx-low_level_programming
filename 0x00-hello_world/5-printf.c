@@ -7,7 +7,7 @@
  **/
 int main(void)
 {
-	printf("crafted with code and an impeccable heart.\n");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
 
